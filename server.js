@@ -35,8 +35,8 @@ internals.start = async function () {
     provider: 'google',
     password: 'cookie_encryption_password_secure',
     isSecure: false,
-    clientId: '253026269170-7h08durq259pq1smh2uf34s3u3jk6rq9.apps.googleusercontent.com',
-    clientSecret: 'Cy9yccyWec03FtQBz7qW2qtV',
+    clientId: 'YOUR_CLIENT_ID',
+    clientSecret: 'YOUR_CLIENT_SECRET',
     location: server.info.uri
   });
 
