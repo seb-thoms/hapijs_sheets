@@ -1,7 +1,7 @@
 const Services = require('./../services/services')
 const SheetsHelper = require('./../sheets')
 
-const accessToken = "ya29.GmA8Bydaa6dLVvvsYwDFDGWgtOIc2P49td1E2kAgYFP6g3_CtfcM0gtQrprWSmnyaiN4ZhkmlaCJA93Ns_xGPHHwd8v7SJZUrOTJEA9VnHtw4qxsbajKWwE5se-n-Goa2xk"
+const accessToken = "YOUR_ACCESS_TOKEN"
 
 module.exports = {
 
